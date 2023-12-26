@@ -10,7 +10,6 @@ The project aims to develop a prototype of a platform that eradicates the tradit
 ## Table of Contents
 * [Demo](#demo)
 * [Prerequisites & Development Libraries](#prerequisites-development-libraries)
-* [Installation](#installation)
 * [Instructions](#instructions)
 * [Demo](#demo)
 * [Background](#background)
@@ -59,8 +58,6 @@ To install WeEmploy you'll need pip and Git. It also uses a some Python packages
 
 
 ## Instructions
-
-* Clone the [repository](#installation)
 
 * Set up a virtual environment. See [here](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments) for more details. Don't forget to activate the virtual environment.
 
